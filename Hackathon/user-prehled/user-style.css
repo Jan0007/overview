@@ -1,0 +1,11 @@
+#out{
+    background-color: #e1631b;
+    color: white;
+    border-radius: 5%;
+    border: none;
+}
+
+#out:hover{
+    background-color: #fee2a3;
+    color: #e1631b;
+}
